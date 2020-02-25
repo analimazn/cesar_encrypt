@@ -1,6 +1,6 @@
 # Criptografia de Júlio César
 ```
-Rode a 1ª vez para gerar o arquivo
+Rode a 1ª vez para gerar o arquivo answer.json
 Rode a 2ª vez para descriptografar a mensagem e enviar
 ```
 
