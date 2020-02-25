@@ -1,4 +1,8 @@
 # Criptografia de Júlio César
+```
+Rode a 1ª vez para gerar o arquivo
+Rode a 2ª vez para descriptografar a mensagem e enviar
+```
 
 ##### Fonte: <https://www.codenation.dev/aceleradev/react-sp-2/challenge/dev-ps>
 
